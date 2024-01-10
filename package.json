@@ -1,9 +1,9 @@
 {
     "name": "unreal-angelscript",
-    "displayName": "Unreal Angelscript",
+    "displayName": "Unreal Angelscript [Wildlight]",
     "description": "Language Server and Debug Adapter for use with the UnrealEngine-Angelscript plugin from https://github.com/Hazelight/UnrealEngine-Angelscript",
     "version": "1.6.4",
-    "publisher": "Hazelight",
+    "publisher": "Hazelight [Wildlight]",
     "engines": {
         "vscode": "^1.65.0"
     },
